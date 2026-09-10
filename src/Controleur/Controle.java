@@ -29,7 +29,7 @@ public class Controle implements AsyncResponse,Global{
 	}
 	
 	public Controle() {
-		this.frmEntreeJeu=new EntreeJeu(this);
+		this.frmEntreeJeu=new EntreeJeu(this); 
 		this.frmEntreeJeu.setVisible(true);
 	}
 	
