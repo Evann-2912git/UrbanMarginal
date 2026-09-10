@@ -18,7 +18,7 @@ import Outils.connexion.ServeurSocket;
 
 public class Controle implements AsyncResponse,Global{
 
-	private EntreeJeu frmEntreeJeu;
+	private EntreeJeu frmEntreeJeu; 
 	private Arene frmArene;
 	private ChoixJoueur frmChoixJoueur;
 	private Jeu leJeu;
